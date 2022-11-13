@@ -1,0 +1,45 @@
+html{
+    background-color: burlywood;
+    
+}
+body{
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    }
+    
+
+.arriba{
+    height: 10em;
+    padding: 5em;
+    background-image: url(../tristan-gassert-3yrXTH5y5Nw-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.arriba{
+    border: 0;
+    font-weight: 400;
+    margin: 0;
+
+    }
+.medio {
+    width: 80%;
+    margin: auto;
+}
+.medio td{
+    width: 50%;
+    padding: 2em;
+}
+.medio img{
+    width: 100%;
+    border: solid 1px #ddd;
+    }
+
+.abajo{
+    height: 3em;
+    line-height: 3em;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    }
